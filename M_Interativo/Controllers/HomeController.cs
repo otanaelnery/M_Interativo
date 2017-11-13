@@ -13,5 +13,9 @@ namespace M_Interativo.Controllers
         {
             return View();
         }
+        public ActionResult CardapioFull()
+        {
+            return View();
+        }
     }
 }
